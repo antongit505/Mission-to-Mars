@@ -2,7 +2,7 @@
 
 ## Overview
 We will assist a Jr. Data Scientist build a web application about the mission to Mars.<br/>
-We will create a website to scrape and display the most recent news in her site.<br/>
+The website will scrape and display the most recent news.<br/>
 
 The tools used will be:
 
