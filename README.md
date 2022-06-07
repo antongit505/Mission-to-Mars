@@ -22,7 +22,7 @@ press the "Scrape New Data" button to display the most recent news and images.
 
 ## Results
 
-![](resources/Desktop-webpage.jpg)
+![](resources/Desktop_webpage.jpg)
 
 ![](resources/mobile-webpage.jpg)
 
